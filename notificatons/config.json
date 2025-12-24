@@ -1,0 +1,17 @@
+{
+  "base": {
+    "project": "some project",
+    "environment": "qa_guru",
+    "comment": "some comment",
+    "reportLink": "https://jenkins.autotests.cloud/job/038-kostyukova_ea-Jenkins11/",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "/Users/EKOSTY~1/AppData/Local/Temp/3397842722674076773/allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "8512164865:AAGuV0fTcKXEfNxlYz_RTdLPNFKc51W6ID0",
+    "chat": "6838215903",
+    "replyTo": ""
+  }
+}
